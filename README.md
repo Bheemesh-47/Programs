@@ -1,3 +1,3 @@
 # Programs
 Test
-Demo test
+Demo
